@@ -1,3 +1,5 @@
 this is my first file created "edureka1/txt"in local branch master.
 
 a new file version
+
+Adding new line in master 
